@@ -1,0 +1,2 @@
+# NoviRepo
+vjezba githuba
